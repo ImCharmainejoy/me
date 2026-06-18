@@ -1,0 +1,420 @@
+const client_manifest = {
+  "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot": {
+    "resourceType": "font",
+    "mimeType": "font/eot",
+    "file": "materialdesignicons-webfont.CSr8KVlo.eot",
+    "src": "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot"
+  },
+  "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "materialdesignicons-webfont.B7mPwVP_.ttf",
+    "src": "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf"
+  },
+  "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff": {
+    "resourceType": "font",
+    "mimeType": "font/woff",
+    "file": "materialdesignicons-webfont.PXm3-2wK.woff",
+    "src": "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff"
+  },
+  "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2": {
+    "resourceType": "font",
+    "mimeType": "font/woff2",
+    "file": "materialdesignicons-webfont.Dp5v-WZN.woff2",
+    "src": "../node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2"
+  },
+  "../node_modules/nuxt/dist/app/components/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Dd8GQUDR.js",
+    "name": "error-404",
+    "src": "../node_modules/nuxt/dist/app/components/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DvZNEXYe.js",
+      "../node_modules/nuxt/dist/app/entry.js",
+      "_Bl2Ws3gF.js"
+    ],
+    "css": [
+      "error-404.Bbd2eCoc.css"
+    ]
+  },
+  "error-404.Bbd2eCoc.css": {
+    "file": "error-404.Bbd2eCoc.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "../node_modules/nuxt/dist/app/components/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "GXhOk49d.js",
+    "name": "error-500",
+    "src": "../node_modules/nuxt/dist/app/components/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "../node_modules/nuxt/dist/app/entry.js",
+      "_Bl2Ws3gF.js"
+    ],
+    "css": [
+      "error-500.Cd2cwFc3.css"
+    ]
+  },
+  "error-500.Cd2cwFc3.css": {
+    "file": "error-500.Cd2cwFc3.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "../node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BpuTRuJ_.js",
+    "name": "entry",
+    "src": "../node_modules/nuxt/dist/app/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "layouts/default.vue",
+      "../node_modules/nuxt/dist/app/components/error-404.vue",
+      "../node_modules/nuxt/dist/app/components/error-500.vue"
+    ],
+    "css": [
+      "entry.BId5yxvN.css"
+    ],
+    "assets": [
+      "materialdesignicons-webfont.CSr8KVlo.eot",
+      "materialdesignicons-webfont.Dp5v-WZN.woff2",
+      "materialdesignicons-webfont.PXm3-2wK.woff",
+      "materialdesignicons-webfont.B7mPwVP_.ttf"
+    ]
+  },
+  "entry.BId5yxvN.css": {
+    "file": "entry.BId5yxvN.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "materialdesignicons-webfont.CSr8KVlo.eot": {
+    "file": "materialdesignicons-webfont.CSr8KVlo.eot",
+    "resourceType": "font",
+    "mimeType": "font/eot"
+  },
+  "materialdesignicons-webfont.Dp5v-WZN.woff2": {
+    "file": "materialdesignicons-webfont.Dp5v-WZN.woff2",
+    "resourceType": "font",
+    "mimeType": "font/woff2"
+  },
+  "materialdesignicons-webfont.PXm3-2wK.woff": {
+    "file": "materialdesignicons-webfont.PXm3-2wK.woff",
+    "resourceType": "font",
+    "mimeType": "font/woff"
+  },
+  "materialdesignicons-webfont.B7mPwVP_.ttf": {
+    "file": "materialdesignicons-webfont.B7mPwVP_.ttf",
+    "resourceType": "font",
+    "mimeType": "font/ttf"
+  },
+  "_Bl2Ws3gF.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Bl2Ws3gF.js",
+    "name": "v4",
+    "imports": [
+      "../node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_DvZNEXYe.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DvZNEXYe.js",
+    "name": "nuxt-link",
+    "imports": [
+      "../node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_VYOZkhSs.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "VYOZkhSs.js",
+    "name": "elevation",
+    "imports": [
+      "../node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "elevation.CPAKs93C.css"
+    ]
+  },
+  "elevation.CPAKs93C.css": {
+    "file": "elevation.CPAKs93C.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "_elevation.CPAKs93C.css": {
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true,
+    "file": "elevation.CPAKs93C.css",
+    "src": "_elevation.CPAKs93C.css"
+  },
+  "assets/images/act1.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "act1.CzBLtk6j.png",
+    "src": "assets/images/act1.png"
+  },
+  "assets/images/act2.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "act2.HR1XP8GG.png",
+    "src": "assets/images/act2.png"
+  },
+  "assets/images/act3.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "act3.BK0r63tW.png",
+    "src": "assets/images/act3.png"
+  },
+  "assets/images/awards1.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "awards1.pOCav_Ff.png",
+    "src": "assets/images/awards1.png"
+  },
+  "assets/images/awards2.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "awards2.7bBg15-A.png",
+    "src": "assets/images/awards2.png"
+  },
+  "assets/images/awards3.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "awards3.uUXZw1WD.png",
+    "src": "assets/images/awards3.png"
+  },
+  "assets/images/hob1.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "hob1.D-EAHvNP.png",
+    "src": "assets/images/hob1.png"
+  },
+  "assets/images/hob2.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "hob2.C-lPM4Yd.png",
+    "src": "assets/images/hob2.png"
+  },
+  "assets/images/hob3.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "hob3.PGTSRKZ3.png",
+    "src": "assets/images/hob3.png"
+  },
+  "assets/images/me.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "me.DcOx30wW.png",
+    "src": "assets/images/me.png"
+  },
+  "assets/images/office.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "office.CGesd16f.png",
+    "src": "assets/images/office.png"
+  },
+  "assets/images/proj1.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "proj1.Ct_0T4L1.png",
+    "src": "assets/images/proj1.png"
+  },
+  "assets/images/proj2.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "proj2.BTEZRGrF.png",
+    "src": "assets/images/proj2.png"
+  },
+  "assets/images/proj3.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "proj3.Cb0NAYrY.png",
+    "src": "assets/images/proj3.png"
+  },
+  "layouts/default.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CjOLqiaj.js",
+    "name": "default",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DvZNEXYe.js",
+      "_VYOZkhSs.js",
+      "../node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "default.CL2lYFfz.css"
+    ]
+  },
+  "default.CL2lYFfz.css": {
+    "file": "default.CL2lYFfz.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Dq7wIPTA.js",
+    "name": "index",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "../node_modules/nuxt/dist/app/entry.js",
+      "_VYOZkhSs.js"
+    ],
+    "css": [
+      "index.D45gsaPw.css"
+    ],
+    "assets": [
+      "me.DcOx30wW.png",
+      "proj1.Ct_0T4L1.png",
+      "proj2.BTEZRGrF.png",
+      "proj3.Cb0NAYrY.png",
+      "act1.CzBLtk6j.png",
+      "act2.HR1XP8GG.png",
+      "act3.BK0r63tW.png",
+      "awards1.pOCav_Ff.png",
+      "awards2.7bBg15-A.png",
+      "awards3.uUXZw1WD.png",
+      "hob1.D-EAHvNP.png",
+      "hob2.C-lPM4Yd.png",
+      "hob3.PGTSRKZ3.png",
+      "office.CGesd16f.png"
+    ]
+  },
+  "index.D45gsaPw.css": {
+    "file": "index.D45gsaPw.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "me.DcOx30wW.png": {
+    "file": "me.DcOx30wW.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "proj1.Ct_0T4L1.png": {
+    "file": "proj1.Ct_0T4L1.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "proj2.BTEZRGrF.png": {
+    "file": "proj2.BTEZRGrF.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "proj3.Cb0NAYrY.png": {
+    "file": "proj3.Cb0NAYrY.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "act1.CzBLtk6j.png": {
+    "file": "act1.CzBLtk6j.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "act2.HR1XP8GG.png": {
+    "file": "act2.HR1XP8GG.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "act3.BK0r63tW.png": {
+    "file": "act3.BK0r63tW.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "awards1.pOCav_Ff.png": {
+    "file": "awards1.pOCav_Ff.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "awards2.7bBg15-A.png": {
+    "file": "awards2.7bBg15-A.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "awards3.uUXZw1WD.png": {
+    "file": "awards3.uUXZw1WD.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "hob1.D-EAHvNP.png": {
+    "file": "hob1.D-EAHvNP.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "hob2.C-lPM4Yd.png": {
+    "file": "hob2.C-lPM4Yd.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "hob3.PGTSRKZ3.png": {
+    "file": "hob3.PGTSRKZ3.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "office.CGesd16f.png": {
+    "file": "office.CGesd16f.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  }
+};
+
+export { client_manifest as default };
+//# sourceMappingURL=client.manifest.mjs.map
