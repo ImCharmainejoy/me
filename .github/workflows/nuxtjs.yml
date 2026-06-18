@@ -63,7 +63,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
-          node-family: 20 # Nuxt 3 works great with Node 20+
+          node-family: 24 # Nuxt 3 works great with Node 20+
           cache: 'npm'
 
       - name: Install dependencies
