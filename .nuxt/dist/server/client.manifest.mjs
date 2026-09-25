@@ -7,12 +7,12 @@ export default {
     "module": true,
     "resourceType": "script"
   },
-  "/Users/cjrosatace/Documents/projects/Others/Iamcj./node_modules/nuxt/dist/app/entry.js": {
+  "/Users/cjrosatace/Documents/projects/old_projects/Others/Iamcj./node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "/Users/cjrosatace/Documents/projects/Others/Iamcj./node_modules/nuxt/dist/app/entry.js"
+    "file": "/Users/cjrosatace/Documents/projects/old_projects/Others/Iamcj./node_modules/nuxt/dist/app/entry.js"
   }
 }
