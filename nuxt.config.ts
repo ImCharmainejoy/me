@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   },
   ssr: false,
   app: {
-    baseURL: process.env.NODE_ENV === 'production' ? '/me/' : '/',
+    baseURL: process.env.NODE_ENV === "production" ? '/me/' : '/',
     // buildAssetsDir: 'assets',
     head: {
       title: 'Iamcj.',
