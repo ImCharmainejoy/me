@@ -21,13 +21,13 @@
               <v-img v-bind="props" :src="item.img" height="220" cover
                 class="rounded-lg position-relative overflow-hidden mb-4 award-img-border">
                 <!-- Hover Overlay with View Photo Link -->
-                <div :class="isHovering ? 'opacity-100' : 'opacity-0'"
+                <!-- <div :class="isHovering ? 'opacity-100' : 'opacity-0'"
                   class="overlay-panel d-flex align-center justify-center transition-opacity">
                   <v-btn variant="flat" color="#B88E30" class="text-white font-weight-bold text-caption" rounded="lg"
                     size="small" :href="item.img" target="_blank" prepend-icon="mdi-eye-outline">
                     View Photo
                   </v-btn>
-                </div>
+                </div> -->
               </v-img>
             </v-hover>
 
