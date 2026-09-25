@@ -13,16 +13,18 @@ export default defineNuxtConfig({
   },
   ssr: false,
   app: {
-    baseURL: '', 
+    baseURL: process.env.NODE_ENV === 'production' ? '/me/' : '/',
     // buildAssetsDir: 'assets',
     head: {
       title: 'Iamcj.',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { key: 'description',
+        {
+          key: 'description',
           name: 'description',
-          content: 'This is a web-based portfolio of Charmaine Joy Rosatace.' },
+          content: 'This is a web-based portfolio of Charmaine Joy Rosatace.'
+        },
         { property: "og:site_name", content: "Iamcj." },
         { key: "og:type", property: "og:type", content: "website" },
         {
