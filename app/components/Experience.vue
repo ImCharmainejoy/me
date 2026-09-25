@@ -92,13 +92,13 @@
               <v-hover v-slot="{ isHovering, props }">
                 <v-img v-bind="props" :src="activity.img" height="200" cover
                   class="rounded-lg position-relative overflow-hidden mb-4">
-                  <div :class="isHovering ? 'opacity-100' : 'opacity-0'"
+                  <!-- <div :class="isHovering ? 'opacity-100' : 'opacity-0'"
                     class="overlay-panel d-flex align-center justify-center transition-opacity">
                     <v-btn variant="flat" color="#B88E30" class="text-white font-weight-bold text-caption" rounded="lg"
                       size="small" :href="activity.link" target="_blank" prepend-icon="mdi-github">
                       View Details
                     </v-btn>
-                  </div>
+                  </div> -->
                 </v-img>
               </v-hover>
 
@@ -126,9 +126,10 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-import hobby1 from '@/assets/images/act1.png'
 import hobby2 from '@/assets/images/act2.png'
 import hobby3 from '@/assets/images/act3.png'
+import meeting from '@/assets/images/meeting.jpg'
+import meeting2 from '@/assets/images/meeting2.jpg'
 
 const items = ref([
   {
@@ -154,21 +155,21 @@ const items = ref([
 
 const activities = ref([
   {
-    title: 'School Class & Records Management System',
-    text: 'Engineered frontend modules utilizing Vue 2, JavaScript, Vuetify 2, and Vuex 3 state management.',
-    link: 'https://github.com/ImCharmainejoy/Iamcj.',
-    img: hobby1
+    title: 'Client Meeting & User Training Session',
+    text: 'Facilitated technical client meetings and conducted end-user training sessions to ensure smooth system onboarding, gathering direct feedback to refine software requirements.',
+    link: '',
+    img: meeting
   },
   {
-    title: 'Sales Tracker System Dashboard',
-    text: 'Developed high-efficiency sales data visualization interface built with Vue 3 and modern JS tools.',
-    link: 'https://github.com/ImCharmainejoy/Iamcj.',
-    img: hobby2
+    title: 'Client Meeting & Project Deployment Discussion',
+    text: 'Collaborated with clients and cross-functional teams to outline deployment strategies, evaluate release readiness, and ensure smooth, zero-downtime production launches.',
+    link: '',
+    img: meeting2
   },
   {
-    title: 'Vaccination Portal & Records System',
-    text: 'Constructed SSR-enabled web portal built with Vue 2, Nuxt 2, JavaScript, and Vuetify.',
-    link: 'https://github.com/ImCharmainejoy/Iamcj.',
+    title: 'Project Presentation & Demo Session',
+    text: 'Delivered comprehensive live product demonstrations and technical project presentations to stakeholders, showcasing core application capabilities, architecture, and key business solutions.',
+    link: '',
     img: hobby3
   }
 ])

@@ -37,17 +37,16 @@
               </p>
 
               <p class="mb-3">
-                As a dedicated <strong class="text-high-emphasis font-weight-bold">Frontend Web Developer</strong>,
-                I have extensive experience building with <strong>Vue 2</strong>, <strong>JavaScript</strong>, and
-                <strong>Nuxt 2</strong>,
-                and I am actively mastering modern tools including <strong>Vue 3</strong>, <strong>TypeScript</strong>,
+                I am a dedicated <strong class="text-high-emphasis font-weight-bold">Frontend Web Developer</strong>
+                experienced in <strong>Vue 2</strong>, <strong>JavaScript</strong>, and <strong>Nuxt 2</strong>,
+                actively
+                building with modern technologies including <strong>Vue 3</strong>, <strong>TypeScript</strong>,
                 <strong>Nuxt 3</strong>, <strong>Vite</strong>, and <strong>Pinia</strong>.
               </p>
 
               <p class="mb-3">
-                A <strong class="text-high-emphasis font-weight-bold">Proud Filipina</strong> and a passionate dreamer,
-                my vision is to grow professionally from the ground up and continuously strive to be a better version of
-                myself—all for the glory of God.
+                A <strong class="text-high-emphasis font-weight-bold">Proud Filipina</strong> with a passion for
+                continuous growth, I am driven to excel in my craft and continually evolve—all for the glory of God.
               </p>
 
               <!-- Language Tags -->
@@ -57,7 +56,7 @@
 
                 <v-chip size="small" variant="outlined" class="chic-chip">Tagalog (Native)</v-chip>
                 <v-chip size="small" variant="outlined" class="chic-chip">English (Fluent)</v-chip>
-                <v-chip size="small" variant="outlined" class="chic-chip">Japanese (Basic)</v-chip>
+                <v-chip size="small" variant="outlined" class="chic-chip">Cebuano (Fluent)</v-chip>
               </div>
             </div>
           </v-col>
